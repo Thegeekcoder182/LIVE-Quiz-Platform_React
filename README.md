@@ -35,7 +35,7 @@ Open your browser and visit http://localhost:5173 or any other local adress whic
 
 Begin exploring and using the quiz app.
 
-How to Play
+How to Play....
 
 Questions are displayed in a First-Come-First-Serve (FCFS) format.
 Select your answers for each question.
